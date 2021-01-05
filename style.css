@@ -95,6 +95,7 @@ p{
 }
 .comparison{
     padding-left: 50px;
+    height: 500px;
 }
 
 .comparison .half-width{
@@ -104,6 +105,7 @@ p{
 
 .texts{
     box-shadow: 8px 8px 30px gray;
+    border-radius: 5px;
     width: 31%;
     padding-left: 100px;
     margin-left: 50px;
@@ -126,9 +128,10 @@ p{
     border-left-style:groove ;
 }
 footer{
-    color: brown;
-    font-size: 5;
-    margin-top: 170px;
-    text-align: center;
-    text-decoration:antiquewhite;
+    text-align: left;
+    
+}
+footer p{
+    text-align: left;
+    font-size: 13px;
 }
