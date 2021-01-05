@@ -17,10 +17,20 @@ section{
 .topbanner{
     text-align: center;
     height:180px;
+    width: 100%;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size:0mm ;
     background-color: rgba(223, 46, 15, 0.24);
     margin-bottom: 20px;
+}
+.bottombanner{
+    text-align: center;
+    height:100px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:0mm ;
+    background-color: rgba(223, 46, 15, 0.24);
+    margin-bottom: 50px;
 }
 h3{
     font-size: 30px;
@@ -71,6 +81,7 @@ p{
     background-image: url("images/top-banner-reverse.jpg");
     background-repeat: no-repeat;
     background-position: right;
+    padding-bottom: 5px;
 }
 .laptoptwo img{
     padding-left: 50px;
@@ -96,7 +107,7 @@ p{
 .comparison{
     padding-left: 50px;
     padding-bottom: 50px;
-    height: 800px;
+    
 }
 
 .comparison .half-width{
