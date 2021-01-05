@@ -16,10 +16,11 @@ section{
 }
 .topbanner{
     text-align: center;
-    
+    height:180px;
     background-repeat: no-repeat;
     background-size: contain;
     background-color: rgba(223, 46, 15, 0.24);
+    margin-bottom: 20px;
 }
 h3{
     font-size: 30px;
