@@ -1,0 +1,125 @@
+body{
+    font-family: 'Amatic SC', cursive;
+}
+h1{
+    font-size: 70px;
+    
+}
+h2{
+    font-size: 60px;
+}
+section{
+    display: block;
+    height: 500px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.topbanner{
+    text-align: center;
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgba(223, 46, 15, 0.24);
+}
+h3{
+    font-size: 30px;
+    font-weight:bolder;
+}
+p{
+    font-size: 25px;
+}
+.colortext{
+    color: rgb(185, 59, 37);
+}
+.half-width{
+    width: 40%;
+    margin-left: 10px;
+    padding: 5px;
+    float: left;
+}
+
+.laptopone img{
+    height: 80%;
+    width: 80%;
+    size: 80%;
+    padding-left: 200px;
+    padding-top: 0px;
+}
+.textzone{
+    padding-left: 50px;
+}
+.laptopone{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+
+.laptopone .half-width .textzone{
+    padding-left: 50px;
+}
+
+.laptoptwo{
+    background-image: url("images/top-banner-reverse.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.laptoptwo img{
+    padding-left: 50px;
+    height: 80%;
+    width: 80%;
+    size: 120%;
+    padding-left: 20px;
+    padding-right: 0px;
+}
+.laptoptwo h3{
+    font-size: 30px;
+    font-weight:bolder;
+}
+
+.laptoptwo p{
+    font-size: 25px;
+}
+
+.laptoptwo .half-width .textzone{
+    padding-left: 100px;
+    text-shadow: brown;
+}
+.comparison{
+    padding-left: 50px;
+}
+
+.comparison .half-width{
+    padding-left: 5px;
+    padding-right: 100px;
+}
+
+.texts{
+    box-shadow: 8px 8px 30px gray;
+    width: 31%;
+    padding-left: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+#vivobook{
+    border-left: 6px solid;
+    border-image: linear-gradiaent(180deg, lightsalmon, tomato) ;
+    border-image-slice: 1;
+    border-left-style:groove ;
+}
+
+#zenbook{
+    border-left: 8px solid;
+    border-image: linear-gradiaent(180deg, rgb(118, 126, 202), rgb(30, 87, 161)) ;
+    border-image-slice: 1;
+    border-left-style:groove ;
+}
+footer{
+    color: brown;
+    font-size: 5;
+    margin-top: 170px;
+    text-align: center;
+    text-decoration:antiquewhite;
+}
