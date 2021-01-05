@@ -95,7 +95,7 @@ p{
 }
 .comparison{
     padding-left: 50px;
-    height: 500px;
+    padding-bottom: 50px;
 }
 
 .comparison .half-width{
@@ -127,11 +127,10 @@ p{
     border-image-slice: 1;
     border-left-style:groove ;
 }
-footer{
-    text-align: left;
-    
-}
+
 .footertext{
-    text-align: left;
+    padding-top: 200px;
+    text-align: center;
     font-size: 13px;
+    font-size: 20px;
 }
