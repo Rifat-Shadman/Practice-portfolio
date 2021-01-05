@@ -131,7 +131,7 @@ footer{
     text-align: left;
     
 }
-footer p{
+.footertext{
     text-align: left;
     font-size: 13px;
 }
