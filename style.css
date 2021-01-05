@@ -55,6 +55,14 @@ p{
     
 }
 
+.pricebutton{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(100, 87, 87, 0.288),rgb(158, 37, 37));
+    padding: 8px 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: 900;
+}
 .laptopone .half-width .textzone{
     padding-left: 50px;
 }
